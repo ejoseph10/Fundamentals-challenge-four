@@ -19,3 +19,4 @@ THEN USER can save my initials and score
 ### SCREENSHOT
 
 <img src="assets/img/Screenshot 2023-07-17 104830.png">
+Try it out==> https://ejoseph10.github.io/Fundamentals-challenge-four/
