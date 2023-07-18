@@ -18,4 +18,4 @@ THEN USER can save my initials and score
 
 ### SCREENSHOT
 
-![Quiz Challenge in action]<img src="assets/img/Screenshot 2023-07-17 104830.png">
+<img src="assets/img/Screenshot 2023-07-17 104830.png">
